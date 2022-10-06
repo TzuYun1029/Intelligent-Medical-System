@@ -1,1 +1,2 @@
-# intelligent_medical_system_midtermProject
+# Intelligent Medical Information System 
+## Midterm project
