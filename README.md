@@ -1,1 +1,1 @@
-# Intelligent-Medical-System
+# intelligent_medical_system_midtermProject
